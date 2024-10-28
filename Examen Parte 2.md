@@ -44,10 +44,7 @@
 
 18. ¿Cuál es el comando para crear un nuevo directorio llamado "proyectos" en Linux?
     - [ ] a) make directorio proyectos
-    - [ ] b) mkdir proyectos
-    - [ ] c) create proyectos
-    - [ ] d) newdir proyectos
-
+   
 19. Si deseas ver el contenido de un archivo de texto en la línea de comandos de Linux, ¿qué comando usarías?
     - [ ] a) cat archivo.txt
     - [ ] b) view archivo.txt
